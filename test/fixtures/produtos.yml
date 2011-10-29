@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  codigo: 1
+  nome: MyString
+  preco: MyString
+  cadastroem: 2011-10-28
+
+two:
+  codigo: 1
+  nome: MyString
+  preco: MyString
+  cadastroem: 2011-10-28
